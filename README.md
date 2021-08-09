@@ -1,9 +1,9 @@
-Clone this repo
+Clone this <strong>repo</strong>
 
 Run npm <code>install</code>
 
-Run npm start
+Run npm <code>start</code>
 
-Enter the details for your own databse in server.js
+Enter the details for your own databse in <code>server.js</code>
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+** Make sure you use <strong>postgreSQL</strong> instead of <strong>mySQL</strong> for this code base.
