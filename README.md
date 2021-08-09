@@ -1,6 +1,6 @@
 Clone this repo
 
-Run npm <code>install<code/>
+Run npm <code>install</code>
 
 Run npm start
 
