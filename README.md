@@ -2,7 +2,7 @@ Clone this repo
 
 Run npm <code>install<code>
 
-Run npm <code>start<code>
+Run npm start
 
 Enter the details for your own databse in server.js
 
